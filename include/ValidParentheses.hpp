@@ -1,4 +1,3 @@
-
 #ifndef VALID_PARENTHESES_HPP_
 #define VALID_PARENTHESES_HPP_
 
